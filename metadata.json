@@ -1,0 +1,6 @@
+{
+  "name": "AegisGov AI - Enterprise AI Governance & Risk Intelligence",
+  "description": "Grade-1 Enterprise AI Governance, Algorithmic Risk Intelligence & Regulatory Compliance Platform designed for multi-conglomerate production environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
